@@ -50,7 +50,7 @@ def cancel(update, context):
 
 
 def main():
-    # Acesso ao bot
+    # Acesso ao bot Token alterado 
     token = 'token'
     updater = Updater(token=token, use_context=True)
 
