@@ -51,7 +51,7 @@ def cancel(update, context):
 
 def main():
     # Acesso ao bot
-    token = '1669689050:AAE0in2L17zqZ9saPMhENsvGtS3B958ys0g'
+    token = 'token'
     updater = Updater(token=token, use_context=True)
 
     # Definindo comando /start
